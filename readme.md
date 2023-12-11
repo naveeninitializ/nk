@@ -12,6 +12,8 @@ This is a sample Markdown file that you can use as a template for your own docum
   - Subitem 2.1
   - Subitem 2.2
 
+  ![screenshoot2](/image/Screenshot%20(2).png)
+
 ## Code
 
 ```python
